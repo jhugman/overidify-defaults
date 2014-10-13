@@ -1,0 +1,24 @@
+{
+  "name": "overidify-defaults",
+  "version": "0.0.0",
+  "description": "A module packaging a set of default facet-rules for overidify and build-facets.",
+  "main": "./overidify-rules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jhugman/overidify-defaults.git"
+  },
+  "keywords": [
+    "overidify",
+    "browerify",
+    "aliasify"
+  ],
+  "author": "@jhugman",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/jhugman/overidify-defaults/issues"
+  },
+  "homepage": "https://github.com/jhugman/overidify-defaults"
+}

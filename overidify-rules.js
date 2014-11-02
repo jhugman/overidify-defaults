@@ -13,5 +13,5 @@ module.exports = {
   },
   flavor: ['dev', 'debug', 'test', 'stage', 'production' ],
   build_os: ['linux', 'osx', 'windows'],
-  target: ['web', 'cordova', 'calatrava'],
+  target: ['web', 'cordova', 'calatrava', 'native'],
 };
